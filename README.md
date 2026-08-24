@@ -22,12 +22,6 @@ Estou na faculdade de ADS e nunca trabalhei na área ainda, mas estou construind
 
 *Em breve: HTML, CSS, JavaScript*
 
-### 📈 Meus status no GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luara-savitisk8-dev&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luara-savitisk8-dev&layout=compact&theme=tokyonight&hide_border=true)
-
 ### 📫 Onde me achar
 
 - ✍️ **DEV.to:** https://dev.to/luara_saviti
