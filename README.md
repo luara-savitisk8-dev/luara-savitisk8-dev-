@@ -1,31 +1,97 @@
-### Oi, eu sou a Luara! 👋
+Luara
+Commit 1 — Competências
 
-> Estudante de Análise e Desenvolvimento de Sistemas construindo meu portfólio do zero.
+A seção inteira:
 
-🎓 Estudando ADS na faculdade
-🌱 Iniciante na área de tecnologia, com muita vontade de aprender
-🎯 Foco atual: Git, GitHub e Lógica de Programação
-🚀 Objetivo: Conseguir minha primeira oportunidade na área
+### 1.5 Síntese das competências prioritárias
 
----
+até antes de:
 
-### 🚀 Sobre mim
+## 2. Eduardo Gama
 
-Estou na faculdade de ADS e nunca trabalhei na área ainda, mas estou construindo meu portfólio do zero aqui no GitHub! Sou super curiosa e estou documentando tudo que aprendo.
+Mensagem:
 
-### 💻 Tecnologias & Ferramentas que estou estudando
+docs: sintetiza competências prioritárias de dados
+Commit 2 — Seção individual
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+De:
 
-*Em breve: HTML, CSS, JavaScript*
+## 4. Luara Saviti
 
-### 📫 Onde me achar
+até antes de:
 
-- ✍️ **DEV.to:** https://dev.to/luara_saviti
-- 💼 **GitHub:** https://github.com/luara-savitisk8-dev
+## 5. Conclusão: análise de gaps e plano de ação
 
----
-⭐ *Desde 2026 documentando minha jornada de ADS*
+Mensagem:
+
+docs: adiciona análise profissional de Luara
+Commit 3 — Plano de ação e projeto coletivo
+
+De:
+
+### 5.4 Plano de ação coletivo
+
+até antes de:
+
+## Referências
+
+Isso inclui:
+
+Plano de ação coletivo;
+Projeto coletivo recomendado.
+
+Mensagem:
+
+docs: propõe plano de ação e projeto coletivo
+Divisão resumida
+Integrante	Conteúdo
+Eduardo	Título, integrantes, metodologia, panorama, tendências, seção pessoal, parte da conclusão, referências e apêndices
+Grazielle	Salários, mapeamento de vagas, seção pessoal e gaps
+Luara	Competências prioritárias, seção pessoal, plano de ação e projeto coletivo
+Atenção aos feedbacks
+
+Existe uma inconsistência importante: dentro da seção de cada pessoa estão os feedbacks escritos pelos outros integrantes. Para o histórico ficar realmente correto, cada colega deveria fazer seus próprios feedbacks em commits separados.
+
+Eduardo deve inserir
+
+Na seção da Grazielle:
+
+**Feedback de Eduardo:**
+
+Na seção da Luara:
+
+**Feedback de Eduardo:**
+
+Commit:
+
+docs: adiciona feedbacks de Eduardo às colegas
+Grazielle deve inserir
+
+Na seção do Eduardo:
+
+**Feedback de Grazielle:**
+
+Na seção da Luara:
+
+**Feedback de Grazielle:**
+
+Commit:
+
+docs: adiciona feedbacks de Grazielle aos colegas
+Luara deve inserir
+
+Na seção do Eduardo:
+
+**Feedback de Luara:**
+
+Na seção da Grazielle:
+
+**Feedback de Luara:**
+
+Commit:
+
+docs: adiciona feedbacks de Luara aos colegas
+
+Portanto, quando cada pessoa adicionar sua seção individual, deve deixar temporariamente os feedbacks dos colegas de fora. Depois, cada colega entra em sua própria branch e adiciona apenas os feedbacks escritos em seu nome.
+
+Essa é a divisão mais defensável diante do professor, porque os commits demonstrarão que cada integrante trabalhou na pesquisa coletiva, na própria análise e na avaliação dos colegas.
